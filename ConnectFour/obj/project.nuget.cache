@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7WqKYjDBlR5BCwW9olMcOifGCZ4SPt9DNM3dKjJkncdTRsbUjO5+g3Ioz8sTIyu+SXgQZ2U7ndk9MiTPz91MuQ==",
+  "dgSpecHash": "+FvesvJ3wkPtPin0kJ4JYBrs7+1gYzlTw7xuthqvwaXk2VJcbxcDQPHKIXxlE2amGIYoO+5e4vcrqKa8ziTSqw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Asataro\\Documents\\Development\\wintercx_github\\CW_dotnet\\ConnectFour\\ConnectFour.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,7 @@
     "C:\\Users\\Asataro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Asataro\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Asataro\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\Asataro\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.18\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.18.nupkg.sha512"
+    "C:\\Users\\Asataro\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.20\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.20.nupkg.sha512"
   ],
   "logs": []
 }
